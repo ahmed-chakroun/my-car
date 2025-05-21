@@ -103,6 +103,7 @@ label #start ,label #cancel{
 label #start {
  
   transition: all .5s ease ;
+    width: 50px; position: fixed;top: 30px;color: #0f3144;left: 30px;
 }
 label #cancel{
   left:205px;
